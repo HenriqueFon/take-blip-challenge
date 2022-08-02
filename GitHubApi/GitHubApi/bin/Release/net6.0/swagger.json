@@ -1,0 +1,21 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "GitHubApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Repositories/repositories": {
+      "get": {
+        "tags": [
+          "Repositories"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  }
+}

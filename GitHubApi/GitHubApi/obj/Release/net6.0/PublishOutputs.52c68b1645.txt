@@ -1,0 +1,14 @@
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\GitHubApi.exe
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\GitHubApi.dll
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\GitHubApi.deps.json
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\GitHubApi.runtimeconfig.json
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\GitHubApi.pdb
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\Refit.dll
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\RestEase.dll
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Noberto\Desktop\GitHubApi\GitHubApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
